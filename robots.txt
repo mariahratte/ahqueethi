@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quooceezei.mariamontessori.co.uk/sitemap.xml
